@@ -1,0 +1,2 @@
+config SHIELD_CORNE_NICE_VIEW_RGB
+    def_bool $(shields_list_contains,corne_nice_view_rgb)
